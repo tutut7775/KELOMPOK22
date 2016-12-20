@@ -1,0 +1,136 @@
+ 
+.wrapper{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+}
+body{
+	font-family: verdana, arial, helvetica, sans-serif;
+	background-image: url(../gambar/background.jpg);
+	margin-top: 1100px;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.header{
+	background-image: url(../gambar/header.jpg);
+	background-repeat: no-repeat;
+	width: 1000px;
+	height: 200px;
+	background-size: 100%;
+	background-position: center;
+	
+}
+#menu{
+	background-position: center;
+	width: 1000px;
+	height: 55px;
+}
+.nav-container {
+	border: 1px solid #eee;
+	margin: 10px 0px;
+	background-color: #000080;
+}
+a {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+a:hover{
+	color: #971aff;
+}
+#content{
+	background-color: white;
+	width: 1000px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	float: left;
+}
+.left{
+	width: 190px;
+	padding-right: 5px;
+	padding-left: 5px;
+	float: left;
+}
+.center{
+	width: 502px;
+	float: left;
+}
+.right{
+	width: 190px;
+	padding-right: 5px;
+	padding-left: 5px;
+	float: right;
+}
+.batas{
+	clear: both;
+}
+#footer{
+	background-image: url(../gambar/footer.jpg);
+	width: 1000px;
+	height: 29px;
+	margin-top: 5px;
+	padding-top: 10px;
+	color: white;
+	font-size: 11px;
+	text-align: center;
+}
+.sidebar{
+	background-color: #003399;
+	margin-top: -8px;
+	height: 32px;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	padding: 6px 2px 0px 1px;
+	border: 1px solid #B6B4B4;
+	border-radius: 7px 7px 0px 0px;
+	-moz-border-radius: 7px 7px 0px 0px;
+	-webkit-border-radius: 7px 7px 0px 0px;
+}
+.aside{
+	margin-bottom: 40px;
+	padding-left: 8px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 2px;
+	border: 1px solid #B6B4B4;
+	border-radius: 0px 0px 7px 7px;
+	-moz-border-radius: 0px 0px 7px 7px;
+	-webkit-border-radius: 0px 0px 7px 7px;
+}
+.sidecenter{
+	text-align: center;
+	color: #000000;
+	margin-top: -10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top:8px;
+	border: 1px solid #B6B4B4;
+	border-radius: 0px 0px 7px 7px;
+	-moz-border-radius: 0px 0px 7px 7px;
+	-webkit-border-radius: 0px 0px 7px 7px;
+	width: 600px;
+}
+.news{
+	background-color: #003399;
+	width: 600px;
+	height: 32px;
+	text-align: center;
+	color:white;
+	padding-left: 6px;
+	padding-top: 5px;
+	margin-top: -8px;
+	margin-left: -10px;
+	padding-right: 10px;
+	border-radius: 0px 0px 0px 0px;
+	-moz-border-radius:0px 0px 0px 0px;
+	-webkit-border-radius:0px 0px 0px 0px;
+	border: 1px solid black;
+}
+.row{
+	padding-bottom: 20px;
+}
+#headerSearch{
+	width: 900px;
+}

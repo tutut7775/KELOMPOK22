@@ -1,0 +1,431 @@
+
+
+body{
+	background-color:white;
+	color:black;
+	font-size: 12px;
+	font-family: verdana, arial, helvetica, sans-serif,'Droid Sans';
+}
+
+.bagan{
+	padding-top: 10px;
+}
+
+#wrapper {
+	background: #fff;
+
+}
+
+.nav-container1 {
+	border:0px solid #eee;
+	margin:10px 0px;
+	background-color: white;
+}
+.nav-container2 {
+	padding-top: 10px;
+	border:0px solid #eee;
+	margin:10px 0px;
+	background-color: white;
+}
+
+a {
+	color: black;
+	font-weight: bold;
+}
+
+a:hover	{
+	color : blue;
+}
+
+
+
+footer {
+	border-top:1px solid #eee;
+	padding-top:10px;
+	margin-top:30px;
+	text-align: left;
+	color:black;
+	background-color:#DCDCDC;
+}
+
+/* Page Title
+=================================================================== */
+
+#page-title-icon {
+	background: #fff;
+	height: 48px;
+	width: 48px;
+	-webkit-border-radius: 50em;
+	-moz-border-radius: 50em;
+	border-radius: 50em;
+	padding: 4px;
+	margin-left: -16px;
+	margin-top: -18px;
+	position: relative;
+	z-index: 10;
+	float: left;
+	
+}
+
+#page-title-icon-inner {
+	background: blue;
+	height: 48px;
+	width: 48px;
+	-webkit-border-radius: 50em;
+	-moz-border-radius: 50em;
+	border-radius: 50em;
+	margin-left: -52px;
+	margin-top: -14px;
+	position: relative;
+	z-index: 30;
+	float: left;
+}
+
+#page-title {
+	background: url(../images/bg-grey2.png);
+	display: block;
+	margin-bottom: 25px;
+	position: relative;
+	z-index: 20;
+	border-bottom: 5px solid #666666;
+}
+
+#page-title-inner {
+	background: rgba(20,84,102, 0.9);
+	-webkit-box-shadow: inset 0px 0px 5px rgba(0,0,0,.25);
+	-moz-box-shadow: inset 0px 0px 5px rgba(0,0,0,.25);
+	box-shadow: inset 0px 0px 5px rgba(0,0,0,.25);
+	padding: 10px;
+}
+
+#page-title i {
+	margin: -6px 2px -5px -18px;
+	padding: 0px;
+}
+
+#page-title h2 {
+	display: inline-block;
+	font-family: "Boogaloo" !important;
+	color: #fff;
+	padding: 10px 20px 5px 20px;
+	font-size: 30px;
+}
+
+#page-title span {
+	color: #555;
+}
+
+/* Icon Boxes
+=================================================================== */
+.icons-box-container {
+	float:left;
+}
+
+.icons-boxes-container {
+	float:left;
+}
+
+.icons-box {
+	height: 281px;
+	width: 294px;
+	text-align: center;
+	border: 1px solid #fff;
+	padding: 20px 10px 10px 10px;
+}
+
+.icons-box:hover {
+	background: #fcfcfc;
+	border: 1px solid #f6f6f6;
+}
+
+.icons-box h3 {
+	margin: 0 auto;
+	padding-top: 10px;
+	border-bottom: 3px double #f6f6f6;
+	margin-bottom: 10px;
+}
+
+.icons-box p {
+	float: left;
+}
+
+.icons-box i {
+	float: left;
+	margin: -2px 0 0px 0;
+}
+
+.icons-box i.circle {
+	float: none !important;
+	margin: 0 auto !important;
+}
+
+.icons-box i.circle-color {
+	float: none !important;
+	margin: 0 auto !important;
+}
+
+.icons-box i.circle-color-full {
+	float: none !important;
+	margin: 0 auto !important;
+}
+
+.circle {
+	-webkit-border-radius: 50em;
+	-moz-border-radius: 50em;
+	border-radius: 50em;
+	-webkit-box-shadow: 0px 0px 0px 3px rgba(0,0,0,1);
+	   -moz-box-shadow: 0px 0px 0px 3px rgba(0,0,0,1);
+		    box-shadow: 0px 0px 0px 3px rgba(0,0,0,1);
+	margin: 0 auto;
+	opacity: .1;
+}
+
+.big {
+	border: 20px solid #fff !important;
+}
+
+.ico-color {
+	background-image: url("../img/icons/green/glyphicons.png");
+	opacity: 1;
+}
+
+.mini-color {
+  background-image: url("../img/icons/green/glyphicons-mini.png");
+  opacity: 1;
+}
+
+.circle-color {
+	background-color: #fff;
+	-webkit-border-radius: 50em;
+	-moz-border-radius: 50em;
+	border-radius: 50em;
+	-webkit-box-shadow: 0px 0px 0px 3px aqua;
+	   -moz-box-shadow: 0px 0px 0px 3px aqua;
+		    box-shadow: 0px 0px 0px 3px aqua;
+	margin: 0 auto;
+	opacity: 1;
+}
+
+.circle-color-full {
+	background-color: aqua;
+	-webkit-border-radius: 50em;
+	-moz-border-radius: 50em;
+	border-radius: 50em;
+	-webkit-box-shadow: 0px 0px 0px 3px aqua;
+	   -moz-box-shadow: 0px 0px 0px 3px aqua;
+		    box-shadow: 0px 0px 0px 3px aqua;
+	margin: 0 auto;
+	opacity: 1;
+}
+
+.big-color {
+	border: 20px solid aqua !important;
+}
+
+/* Pricing Tables
+=================================================================== */
+.five-tables .pricing-table {
+	width: 187px;
+}
+	
+.four-tables .pricing-table {
+	width: 234px;
+}
+	
+.three-tables .pricing-table {
+	width: 312px;
+}
+
+.two-tables .pricing-table {
+	width: 469px;
+}
+
+.pricing-table {
+	float: left;
+	margin: 1px 0 0 1px;
+}
+
+.pricing-table h3 {
+	font-size: 16px;
+	text-align: center;
+	color: #fff;
+	padding: 6px 0;
+	margin: 0;
+}
+
+.pricing-table li {
+	color: #888;
+	background: #fff;
+	text-align: center;
+	padding: 11px 0;
+	border-bottom: 1px solid #fff;
+}
+
+.pricing-table li:nth-child(2n) {
+	background: #f6f6f6;
+}
+	
+.pricing-table h4 {
+	padding:0 0 10px
+}
+
+a.buy {
+	text-align: center;
+	display: block;
+	color: #fff;
+	padding: 12px 0;
+	font-weight: bold;
+	font-size: 14px;
+	-webkit-transition: all 0.1s ease-in-out;
+	-moz-transition: all 0.1s ease-in-out;
+	-o-transition: all 0.1s ease-in-out;
+	-ms-transition: all 0.1s ease-in-out;
+	transition: all 0.1s ease-in-out;
+}
+
+a.buy:hover {
+	opacity: 0.9;
+	filter: alpha(opacity=90);
+}
+
+/* Table
+=================================================================== */
+.pricing-table h3,
+.pricing-table h4 {
+	color: #fff;
+	margin: 0;
+}
+
+.pricing-table h4 {
+	padding: 15px 0;
+}
+
+.price,
+.time {
+	display: block;
+	text-align: center;
+	line-height: 24px;
+}
+
+.price {
+	font-size: 24px;
+	font-weight: normal;
+}
+
+.time {
+	font-size: 12px;
+	font-weight: normal;
+}
+
+/* Notice
+====================================================================== */
+
+.hero-unit {
+	background: #fff url(../img/bg-k10.png);
+	border-left: 4px solid aqua;
+	padding: 13px 13px 13px 15px;
+	font-style: italic;
+	margin: 20px auto;
+	-webkit-border-radius: 0px;
+     -moz-border-radius: 0px;
+          border-radius: 0px;
+	font-size: 14px !important;
+}
+
+/* Color Schemes
+=================================================================== */
+
+/* Color - 1 */
+.pricing-table .color-cccddd h3, .color-cccddd .buy {background-color: #ccc;}
+.pricing-table .color-cccddd h4 {background-color: #ddd;}
+
+/* Color - 2 */
+.pricing-table .color-666777 h3, .color-666777 .buy {background-color: #666;}
+.pricing-table .color-666777 h4 {background-color: #777;}
+
+/* Color - 3 */
+.pricing-table .color-custom h3, .color-custom .buy {background-color: #111; padding: 15px 0;}
+.pricing-table .color-custom h4 {background-color: #222; padding: 35px 0;}
+
+.color-custom {
+	margin-top:-57px;
+	-webkit-box-shadow: 0px 2px 5px rgba(0,0,0,.5);
+    box-shadow: 0px 2px 5px rgba(0,0,0,.5);
+}
+
+.pricing-table {
+	position: relative !important;
+	z-index: 5 !important;
+	margin: 60px 0px;
+}
+
+.pricing-table.best-option {
+	position: relative !important;
+	z-index: 6 !important;
+}
+
+.pricing-table .color-custom h3, .color-custom .buy {background-color: #80a859;}
+.pricing-table .color-custom h4 {background-color: aqua;}
+
+/* Newsletter Form
+====================================================================== */
+
+form#newsletter {
+	color: #999999;
+	margin-left: 10px;
+}
+
+form#newsletter p {
+	margin: 0px 0px -10px 0px;
+}
+
+form#newsletter label {
+	font-size: 16px;
+	width: 20px;
+	display: block;
+	position: relative;
+	left: 8px;
+	top: 33px;
+	z-index: 2;
+}	
+
+form#newsletter input[type=text] {
+	background: #fff;
+	width: 75%;
+	float: left;
+	border: 1px solid #f6f6f6;
+	position: relative;
+	z-index: 1;
+	padding: 7px 0px 8px 34px;
+	-webkit-box-shadow: none;
+	   -moz-box-shadow: none;
+		    box-shadow: none;
+	-webkit-border-top-left-radius: 3px;
+	   -moz-border-radius-topleft: 3px;		
+			border-top-left-radius: 3px;
+	-webkit-border-bottom-left-radius: 3px;
+	   -moz-border-radius-bottomleft: 3px;		
+			border-bottom-left-radius: 3px;				
+}
+	
+form#newsletter input[type=submit] {
+	background: aqua;
+	color: #fff;
+	width: 25%;
+	float: left;
+	border: 1px solid #f6f6f6;
+	position: relative;
+	z-index: 2;
+	font-size: 14px;
+	padding: 7px 0px 8px 0px;
+	margin-top: 0px;
+	margin-left: -42px;
+	-webkit-border-top-right-radius: 3px;
+	   -moz-border-radius-topright: 3px;		
+			border-top-right-radius: 3px;
+	-webkit-border-bottom-right-radius: 3px;
+	   -moz-border-radius-bottomright: 3px;		
+			border-bottom-right-radius: 3px;
+
+}
+
