@@ -18,6 +18,7 @@ if (empty($_SESSION['username']) AND empty($_SESSION['passuser'])) {
           </ol>
         </section>
 
+	      
         <!-- Main content -->
         <section class="content">
           <!-- Info boxes -->
