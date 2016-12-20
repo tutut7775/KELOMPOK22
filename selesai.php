@@ -190,7 +190,7 @@
 			</div>
 		</div>
 		<hr>
-		<p align="center">CopyRight &copy; 2016 <a href="http://twitter.com/waloonnn">Mochamad Syawalu Rifa'i</a>. ALL Right Reserved</p>
+		<p align="center">CopyRight &copy; 2016 KELOMPOK22. ALL Right Reserved</p>
 	</footer>
 </body>
 </html>
