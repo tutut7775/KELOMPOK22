@@ -82,7 +82,6 @@ CREATE TABLE `kategori` (
 --
 -- Dumping data for table `kategori`
 --
-
 INSERT INTO `kategori` (`id_kategori`, `nama_kategori`) VALUES
 (1, 'T-shirts'),
 (3, 'sweater');
