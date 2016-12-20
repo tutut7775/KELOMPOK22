@@ -55,6 +55,7 @@ if (empty($_SESSION['username']) AND empty($_SESSION['passuser'])) {
                   </div><!-- /.box-footer -->
                 </form>
 			</div>
+		    
             </div>
           </div>
         </section><!-- /.content -->
