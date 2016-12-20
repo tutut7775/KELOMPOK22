@@ -5,6 +5,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
 	<title>TOKO ONLINE</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="description" content="">
@@ -69,7 +70,7 @@
 			<!-- start: Container -->
 			<div class="container">
 
-				<h2><i class="ico-stats ico-white"></i>Accessories</h2>
+				<h2><i class="ico-stats ico-white"></i>Accesories</h2>
 
 			</div>
 			<!-- end: Container  -->
