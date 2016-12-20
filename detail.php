@@ -204,9 +204,7 @@
 			</div>
 		</div>
 		<hr>
-<<<<<<< HEAD
-		<p align="center">CopyRight &copy; 2016 <a href="">KELOMPOK 22 BRINOCY.CO</a>. ALL Right Reserved</p>
-=======
+		<p align="center">CopyRight &copy; 2016 KELOMPOK22. ALL Right Reserved</p>
 	</footer>
 </body>
 </html>
