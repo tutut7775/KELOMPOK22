@@ -16,5 +16,7 @@ if (empty($_SESSION['username']) AND empty($_SESSION['passuser'])) {
 		echo "<script> alert('Data Merek Gagal Dihapus '); window.location = '$admin_url'+'adminweb.php?module=edit_merek&id_merek='+'$idMerek';>/script>";
 		}
 	}
+
+
 	?>
 	
