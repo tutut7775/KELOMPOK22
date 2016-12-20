@@ -70,7 +70,7 @@
 			<!-- start: Container -->
 			<div class="container">
 
-				<h2><i class="ico-stats ico-white"></i>Accesories</h2>
+				<h2><i class="ico-stats ico-white"></i>Accessories</h2>
 
 			</div>
 			<!-- end: Container  -->
