@@ -201,7 +201,7 @@
 		</div>
 		<hr>
 <<<<<<< HEAD
-		<p align="center">CopyRight &copy; 2016 KELOMPOK 22 BRINOCY.CO. ALL Right Reserved</p>
+		<p align="center">CopyRight &copy; 2016 KELOMPOK22  BRINOCY.CO. ALL Right Reserved</p>
 =======
 	</footer>
 </body>
