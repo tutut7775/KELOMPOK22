@@ -205,8 +205,6 @@
 <<<<<<< HEAD
 		<p align="center">CopyRight &copy; 2016 KELOMPOK 22 BRINOCY.CO. ALL Right Reserved</p>
 =======
-		<p align="center">CopyRight &copy; 2016 KELOMPOK22. ALL Right Reserved</p>
->>>>>>> 2dac35a9d258b518eed76b67bdff601a916a6049
 	</footer>
 </body>
 </html>
