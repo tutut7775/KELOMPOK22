@@ -5,6 +5,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
 	<title>TOKO ONLINE</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="description" content="">
@@ -111,7 +112,7 @@
 
 
 	<footer>
-		CopyRight &copy; 2016 <a href="#">ADMIN</a>. ALL Right Reserved
+		CopyRight &copy; 2016 KELOMPOK22 <a href="#">ADMIN</a>. ALL Right Reserved
 	</footer>
 </body>
 </html>
