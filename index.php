@@ -18,8 +18,6 @@
 	<meta property="og:url" content=""/>
 	<meta property="og:image" content=""/>
 	<!-- end: Facebook Open Graph -->
-
-
 	<!-- Bootstrap -->
 	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
 	<link href="css/style.css" rel="stylesheet" media="screen">
