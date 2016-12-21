@@ -47,6 +47,7 @@ require_once("lib/koneksi.php");
                 unset($_SESSION['items']);
             }
         } 
+		
          
         header ("location:" . $ref);
     }
