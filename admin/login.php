@@ -22,6 +22,7 @@ $pass = $_POST['password'];
         $_SESSION[namauser] = $r[username];
         $_SESSION[passuser] = $r[password];
 
+		
         header('location:adminweb.php?module=home');
     } else {
         echo "<center>LOGIN GAGAL! <br> 
