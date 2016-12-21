@@ -1,5 +1,4 @@
 <?php 
-
 session_start ();
 
 if (empty($_SESSION['username']) AND empty($_SESSION['passuser'])) {
@@ -18,4 +17,4 @@ if (empty($_SESSION['username']) AND empty($_SESSION['passuser'])) {
 		echo "<script> alert('Data Merek Gagal Dimasukan ');window.location = '$admin_url'+'adminweb.php?module=tambah_merek'; </script>";
 		}
 	}
-	?> 
+?> 

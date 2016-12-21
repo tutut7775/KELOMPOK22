@@ -56,6 +56,7 @@
 			                  				<li><a href="sweaters.php">Sweaters</a></li>
 			                			</ul>
 			              	</li>
+							
 			              	<li><a href="index.php">FAQ</a></li>
 							<li class="dropdown">
 			                			<a href="#" class="dropdown-toggle" data-toggle="dropdown">MY ACCOUNT <b class="caret"></b></a>

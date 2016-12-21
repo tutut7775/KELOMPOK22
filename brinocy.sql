@@ -38,7 +38,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id_admin`, `username`, `password`, `fullname`) VALUES
-(1, 'syawal', 'syawal', 'mochamad syawalu rifai');
+(1, 'admin', 'admin', 'administrator');
 
 -- --------------------------------------------------------
 
@@ -82,7 +82,6 @@ CREATE TABLE `kategori` (
 --
 -- Dumping data for table `kategori`
 --
-
 INSERT INTO `kategori` (`id_kategori`, `nama_kategori`) VALUES
 (1, 'T-shirts'),
 (3, 'sweater');
