@@ -204,7 +204,7 @@
 			</div>
 		</div>
 		<hr>
-		<p align="center">CopyRight &copy; 2016 <a href="">KELOMPOK 22</a>. ALL Right Reserved</p>
+		<p align="center">CopyRight &copy; 2016 <a href="">KELOMPOK Tutut Ayu</a>. ALL Right Reserved</p>
 	</footer>
 </body>
 </html>
