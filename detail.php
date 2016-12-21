@@ -205,7 +205,7 @@
 			</div>
 		</div>
 		<hr>
-		<p align="center">CopyRight &copy; 2016 KELOMPOK22. ALL Right Reserved</p>
+		<p align="center">CopyRight &copy; 2016 KELOMPOK22 BRINOCY.CO. ALL Right Reserved</p>
 	</footer>
 </body>
 </html>
