@@ -111,7 +111,7 @@
 
 
 	<footer>
-		CopyRight &copy; 2016 KELOMPOK22. ALL Right Reserved
+		CopyRight &copy; 2016 KELOMPOK22 BRINOCY.CO. ALL Right Reserved
 	</footer>
 </body>
 </html>
