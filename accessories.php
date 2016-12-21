@@ -112,7 +112,7 @@
 
 
 	<footer>
-		CopyRight &copy; 2016 KELOMPOK22 <a href="#">ADMIN</a>. ALL Right Reserved
+		CopyRight &copy; 2016 KELOMPOK22. ALL Right Reserved
 	</footer>
 </body>
 </html>
